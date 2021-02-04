@@ -1,0 +1,36 @@
+footer {
+  background-color: rgb(50, 50, 50);
+  padding: 80px 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.icons {
+  display: flex;
+}
+
+.icons a {
+  color: rgb(219, 219, 219);
+  margin: 15px;
+}
+
+.icons a:hover {
+  opacity: 0.8;
+}
+
+.fb:hover {
+  color: rgb(44, 44, 255);
+}
+
+.tw:hover {
+  color: rgb(112, 209, 226);
+}
+
+.in:hover {
+  color: rgb(218, 78, 159);
+}
+
+.ab:hover {
+  color: rgb(255, 130, 130);
+}

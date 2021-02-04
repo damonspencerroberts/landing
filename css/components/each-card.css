@@ -1,0 +1,24 @@
+.each-card {
+  padding: 20px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+  width: 300px;
+  height: 320px;
+  margin: 20px;
+  color: rgb(50, 50, 50);
+  text-align: center;
+  border-radius: 3px;
+}
+
+.each-card img {
+  width: 250px;
+  height: 140px;
+}
+
+.each-card h4 {
+  font-size: 1.3rem;
+}
+
+.each-card p {
+  font-size: 0.9rem;
+  font-weight: lighter;
+}

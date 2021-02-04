@@ -1,0 +1,15 @@
+.capture-btn {
+  padding: 12px 48px;
+  background-color: rgb(51, 157, 51);
+  color: white;
+  font-weight: 200;
+  font-size: 1.25rem;
+  border-radius: 3px;
+  transition: opacity 1.3s;
+}
+
+.capture-btn:hover {
+  opacity: 0.75;
+  border: 1px solid rgb(51, 157, 51);
+  color: rgb(50, 50, 50);
+}

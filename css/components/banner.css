@@ -1,0 +1,21 @@
+.banner {
+  margin: 0 auto;
+  background-image: url('../../images/aus.jpg');
+  height: 600px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.banner-content {
+  padding: 40px 100px;
+  color: white;
+}
+
+.banner-content h1 {
+  font-size: 4rem;
+}
+
+.banner-content p {
+  font-size: 1.5rem;
+  padding-bottom: 40px;
+}
